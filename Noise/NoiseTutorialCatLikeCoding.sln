@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{125E4C43-4D73-BFE9-F144-AE5B32254665}") = "NoiseTutorialCatLikeCoding", "Assembly-CSharp.csproj", "{5AB23925-865F-51B8-A0F8-DE78A8F4734E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB23925-865F-51B8-A0F8-DE78A8F4734E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB23925-865F-51B8-A0F8-DE78A8F4734E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB23925-865F-51B8-A0F8-DE78A8F4734E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB23925-865F-51B8-A0F8-DE78A8F4734E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
